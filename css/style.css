@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('/webdesign-src/fonts/Montserrat/Montserrat-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('/webdesign-src/fonts/Montserrat/Montserrat-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+body {
+    font-family: 'Montserrat-Regular';
+    color: #30425A
+}
+header {
+    padding: 2em 0 2em 0;
+}
+
+.title h1 {
+    font-family: 'Montserrat-Bold';
+    font-size: 4em;
+}
+
+.engagements-picture {
+    height: 200px;
+}
+
+.engagements {
+    padding-top: 100px;
+    text-align: right;
+}
+
+.description-container {
+    background-color: #FAEEE5;
+}
+
+.description {
+    padding: 6em 4em 6em 4em;
+}
+
+.picture img {
+    width: 100%;
+}
