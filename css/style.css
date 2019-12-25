@@ -8,6 +8,11 @@
     src: url('/webdesign-src/fonts/Montserrat/Montserrat-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
+@font-face {
+    font-family: 'Barlow-Regular';
+    src: url('/webdesign-src/fonts/Barlow/Barlow-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
 body {
     font-family: 'Montserrat-Regular';
     color: #30425A
@@ -40,4 +45,73 @@ header {
 
 .picture img {
     width: 100%;
+}
+
+.box {
+    text-align: center;
+}
+.box h3 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.expertises h2 {
+    font-family: 'Montserrat-Bold';
+    font-size: 45px;
+}
+
+.expertises {
+    background-color: #fff;
+}
+
+.expertises p {
+    font-family: 'Barlow-Regular';
+}
+
+.strategie {
+    background-color: #F4DFCC;
+    color: #30425A;
+}
+
+.creation {
+    background-color: #E99283;
+    color: #FAEEE5;
+} 
+
+.securisation {
+    background-color: #30425A;
+    color: #FAEEE5;
+}
+
+.associations {
+    background-color: #FAEEE5;
+}
+
+.controle {
+    background-color: #F4DFCC;
+}
+
+.declaration {
+    background-color: #E99283;
+    color: #FAEEE5;
+}
+
+.blank {
+    background-color: #FFFFFF;
+    color: #FAEEE5;
+}
+
+.transmission {
+    background-color:  #73A7AF;
+    color: #FAEEE5;
+}
+
+.fiscalite {
+    background-color: #30425A;
+    color: #FAEEE5;
+}
+
+.dirigeants {
+    background-color: #FAEEE5;
+    color: #30425A;
 }
