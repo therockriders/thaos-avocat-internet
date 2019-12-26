@@ -116,6 +116,24 @@ header {
     color: #30425A;
 }
 
+.address {
+    background-color: #FAEEE5;
+    color: #30425A;
+}
+
+.map img {
+    width: 100%;
+}
+
+.address span {
+    font-family: 'Barlow-Regular';
+}
+
 .footer {
     background-color: #30425A;
+    color: #FFFFFF;
+}
+
+.footer ul {
+    font-family: 'Barlow-Regular';
 }
