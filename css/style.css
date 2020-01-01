@@ -81,6 +81,10 @@ header {
     font-family: 'Barlow-Regular';
 }
 
+.expertises-blank {
+    background-color: #FAEEE5;
+}
+
 .strategie {
     background-color: #F4DFCC;
     color: #30425A;
@@ -149,4 +153,21 @@ header {
 
 .footer ul {
     font-family: 'Barlow-Regular';
+}
+
+.footer img.logo {
+    width: 60%;
+}
+
+.contact img.phone {
+    width: 20px;
+}
+
+.contact img.mail {
+    width: 30px;
+}
+
+.last-lines {
+    font-weight: bold;
+    font-size: 0.8em;
 }
