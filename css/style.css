@@ -28,9 +28,9 @@ header {
 }
 
 .under-dev {
-    text-align: right;
     padding: 2em;
-    border: 1px solid #30425A;
+    border-left: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
     background-color: #30425A;
     color: #FFFFFF;
 }
@@ -178,15 +178,20 @@ header {
     /*width: 60%;*/
 }
 
+.contact a {
+    color: #FFFFFF;
+}
+
 .contact img.phone {
     width: 20px;
 }
 
 .contact img.mail {
     width: 30px;
+
 }
 
 .last-lines {
     font-weight: bold;
-    font-size: 1.4em;
+    font-size: 0.8em;
 }
