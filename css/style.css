@@ -27,9 +27,17 @@ header {
     visibility: hidden
 }
 
+.under-dev {
+    text-align: right;
+    padding: 2em;
+    border: 1px solid #30425A;
+    background-color: #30425A;
+    color: #FFFFFF;
+}
+
 .title h1 {
     font-family: 'Montserrat-Bold';
-    font-size: 6em;
+    font-size: 5em;
 }
 
 .container-left {
@@ -77,19 +85,15 @@ header {
 .box {
     text-align: center;
 }
+
 .box h3 {
     font-weight: bold;
     font-size: 26px;
+    margin-left: -6em;
 }
 
 .expertises h2 {
-    font-family: 'Montserrat-Bold';
-    font-size: 55px;
-}
-
-.expertises {
-    background-color: #fff;
-    margin-left: -6em;
+    font-family: Montserrat-Bold
 }
 
 .expertises p {
