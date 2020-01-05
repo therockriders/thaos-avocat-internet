@@ -27,12 +27,19 @@ header {
     font-size: 4em;
 }
 
+.container-left {
+    background-color: #FAEEE5;
+}
+
+.engagements {
+    background-color: #FFFFFF;
+}
+
 .engagements-picture {
     height: 140px;
 }
 
 .engagements {
-    padding-top: 70px;
     text-align: right;
 }
 
@@ -75,7 +82,7 @@ header {
 
 .expertises {
     background-color: #fff;
-    margin-top: -17em;
+    margin-left: -6em;
 }
 
 .expertises p {
@@ -157,7 +164,7 @@ header {
 }
 
 .footer img.logo {
-    width: 60%;
+    /*width: 60%;*/
 }
 
 .contact img.phone {
