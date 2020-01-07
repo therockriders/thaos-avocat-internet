@@ -4,13 +4,12 @@ build:
 push_local:
 	rsync -avz --delete-after _site/ /var/www/html/thaos-avocat/
 
-# lftp ftp://jul.legall:loesfofr@ftpperso.free.fr -e "mirror -e --ignore-time -R _site blog; put -O blog/ free_access/.htaccess; put -O blog/ free_access/.htpasswd; quit"
 push:
-	echo "TODO"
+	lftp ftp://thaosavont@ftp.cluster028.hosting.ovh.net -e "mirror -e --ignore-time -R _site www; quit"
 	
 deploy_local: build push_local
 
-deploy: build push_free
+deploy: build push
 
 serve:
 	bundle exec jekyll serve --drafts --watch
