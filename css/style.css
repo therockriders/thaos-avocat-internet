@@ -23,6 +23,10 @@ header {
     height: 30px;
 }
 
+.logo img {
+    width: 189px;
+}
+
 .navbar-hidden {
     visibility: hidden
 }
