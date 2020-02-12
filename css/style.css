@@ -17,13 +17,39 @@ body {
     font-family: 'Montserrat-Regular';
     color: #30425A
 }
+
 header {
     padding: 2em 0 2em 0;
+    height: 30px;
+}
+
+.logo img {
+    width: 189px;
+}
+
+.navbar-hidden {
+    visibility: hidden
+}
+
+.under-dev {
+    padding: 2em;
+    border-left: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    background-color: #30425A;
+    color: #FFFFFF;
 }
 
 .title h1 {
     font-family: 'Montserrat-Bold';
-    font-size: 4em;
+    font-size: 5em;
+}
+
+.container-left {
+    background-color: #FAEEE5;
+}
+
+.engagements {
+    background-color: #FFFFFF;
 }
 
 .engagements-picture {
@@ -31,8 +57,8 @@ header {
 }
 
 .engagements {
-    padding-top: 70px;
     text-align: right;
+    height: 7em;
 }
 
 .engagements img {
@@ -49,6 +75,7 @@ header {
 
 .description p {
     font-family: 'Barlow-Regular';
+    padding-right: 4em;
 }
 
 .description-empty {
@@ -62,23 +89,28 @@ header {
 .box {
     text-align: center;
 }
+
 .box h3 {
     font-weight: bold;
-    font-size: 18px;
-}
-
-.expertises h2 {
-    font-family: 'Montserrat-Bold';
-    font-size: 45px;
+    font-size: 26px;
+    margin-left: -6em;
 }
 
 .expertises {
-    background-color: #fff;
-    margin-top: -17em;
+    background-color: #FFFFFF;
+    margin-left: -6em;
+}
+
+.expertises h2 {
+    font-family: Montserrat-Bold
 }
 
 .expertises p {
     font-family: 'Barlow-Regular';
+}
+
+.expertises-blank {
+    background-color: #FAEEE5;
 }
 
 .strategie {
@@ -149,4 +181,26 @@ header {
 
 .footer ul {
     font-family: 'Barlow-Regular';
+}
+
+.footer img.logo {
+    /*width: 60%;*/
+}
+
+.contact a {
+    color: #FFFFFF;
+}
+
+.contact img.phone {
+    width: 20px;
+}
+
+.contact img.mail {
+    width: 30px;
+
+}
+
+.last-lines {
+    font-weight: bold;
+    font-size: 0.8em;
 }
