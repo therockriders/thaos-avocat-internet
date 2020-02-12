@@ -92,8 +92,11 @@ header {
 
 .box h3 {
     font-weight: bold;
-    font-size: 26px;
-    margin-left: -6em;
+    font-size: 18px;
+}
+
+.box img {
+    width: 100px;
 }
 
 .expertises {
@@ -113,41 +116,18 @@ header {
     background-color: #FAEEE5;
 }
 
-.strategie {
+.creation {
     background-color: #F4DFCC;
     color: #30425A;
 }
 
-.creation {
-    background-color: #E99283;
-    color: #FAEEE5;
+.strategie {
+    background-color: #FAEEE5;
+    color: #30425A;
 } 
 
-.securisation {
-    background-color: #30425A;
-    color: #FAEEE5;
-}
-
-.associations {
-    background-color: #FAEEE5;
-}
-
 .controle {
-    background-color: #F4DFCC;
-}
-
-.declaration {
     background-color: #E99283;
-    color: #FAEEE5;
-}
-
-.blank {
-    background-color: #FFFFFF;
-    color: #FAEEE5;
-}
-
-.transmission {
-    background-color:  #73A7AF;
     color: #FAEEE5;
 }
 
@@ -156,9 +136,34 @@ header {
     color: #FAEEE5;
 }
 
-.dirigeants {
+.transmission {
     background-color: #FAEEE5;
     color: #30425A;
+}
+
+.declaration {
+    background-color: #F4DFCC;
+    color: #30425A;
+}
+
+.blank {
+    background-color: #FFFFFF;
+    color: #FAEEE5;
+}
+
+.associations {
+    background-color: #E99283;
+    color: #FAEEE5;
+}
+
+.securisation {
+    background-color:  #73A7AF;
+    color: #FAEEE5;
+}
+
+.dirigeants {
+    background-color: #30425A;
+    color: #FAEEE5;
 }
 
 .address {
