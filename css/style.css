@@ -31,12 +31,17 @@ header {
     visibility: hidden
 }
 
-.under-dev {
-    padding: 2em;
-    border-left: 1px solid #FFFFFF;
-    border-bottom: 1px solid #FFFFFF;
-    background-color: #30425A;
-    color: #FFFFFF;
+.nav-menu {
+    padding: 5em 2em 2em 2em;
+    letter-spacing: 0.8px;
+    color: #30425A;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    background-color:#fff;
+    z-index: 1040;
+}
+.menu-item:hover {
+    border-bottom: solid #000;
 }
 
 .title h1 {
