@@ -12,4 +12,4 @@ deploy_local: build push_local
 deploy: build push
 
 serve:
-	bundle exec jekyll serve --drafts --watch
+	bundle exec jekyll serve --drafts --watch --host 0.0.0.0
