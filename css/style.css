@@ -51,7 +51,10 @@ header {
     z-index: 1040;
 }
 
-
+/* Nav menu in main_page*/
+.nav .arrow {
+    width: 30px;
+}
 
 .menu-item {
     padding-right: 3em !important;
@@ -92,9 +95,7 @@ header {
     background-color: #FAEEE5;
 }
 
-.description {
-    padding: 6em 4em 6em 4em;
-}
+
 
 .description p {
     font-family: 'Barlow-Regular';
@@ -107,6 +108,30 @@ header {
 
 .description-empty {
     background-color: #FAEEE5;
+}
+
+.article {
+    font-family: 'Barlow-Regular';
+}
+
+.article h1, .article h3 {
+    font-family: 'Montserrat-Bold';
+}
+
+.article h1 {
+    font-size: 4em;
+}
+
+.article h3 {
+    font-size: 1em;
+}
+
+.article .content-picture {
+    width: 100%;
+}
+
+.article .dark {
+    background-color: #FAEEE5
 }
 
 .picture img {
