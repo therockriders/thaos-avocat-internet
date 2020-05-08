@@ -214,3 +214,7 @@ header {
     font-weight: bold;
     font-size: 0.8em;
 }
+
+.dg {
+    border: 1px solid red
+}
