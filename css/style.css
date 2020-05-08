@@ -55,13 +55,26 @@ header {
     width: 30px;
 }
 
+.nav {
+    font-family: 'Montserrat-Bold';
+    font-size: 1em;
+}
+
 .menu-item {
     padding-right: 3em !important;
 }
 
-.menu-item:hover {
+.menu-item:hover, .menu-item.selected {
     border-bottom: solid #40929E;
     font-weight: bold;
+}
+
+.menu-item a:visited {
+    color: #30425A;
+}
+
+.menu-item a:hover {
+    text-decoration: none;
 }
 
 .title h1 {
