@@ -1,0 +1,4 @@
+PerlSetVar AuthFile /thaos-avocat/.htpasswd
+AuthName "Acces Restreint"
+AuthType Basic
+require valid-user
