@@ -90,6 +90,10 @@ header {
     padding-right: 4em;
 }
 
+.description-sm {
+    font-family: 'Barlow-Regular';
+}
+
 .description-empty {
     background-color: #FAEEE5;
 }
@@ -116,11 +120,11 @@ header {
     margin-left: -6em;
 }
 
-.expertises h2 {
+.expertises h2, .expertises-sm h2 {
     font-family: Montserrat-Bold
 }
 
-.expertises p {
+.expertises p, .expertises-sm p {
     font-family: 'Barlow-Regular';
 }
 
