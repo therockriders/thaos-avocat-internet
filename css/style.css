@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Montserrat-Bold';
-    src: url('../webdesign-src/fonts/Montserrat/Montserrat-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('../images/fonts/Montserrat/Montserrat-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
 @font-face {
     font-family: 'Montserrat-Regular';
-    src: url('../webdesign-src/fonts/Montserrat/Montserrat-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('../images/fonts/Montserrat/Montserrat-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
 @font-face {
     font-family: 'Barlow-Regular';
-    src: url('../webdesign-src/fonts/Barlow/Barlow-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('../images/fonts/Barlow/Barlow-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
 body {
@@ -128,6 +128,7 @@ header {
 
 .article h1, .article h2, .article h3 {
     font-family: 'Montserrat-Bold';
+    padding-top: 1em;
 }
 
 .article h1 {
