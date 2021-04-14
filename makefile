@@ -18,3 +18,4 @@ deploy: build push
 
 serve:
 	bundle exec jekyll serve --drafts --watch --host 0.0.0.0
+
