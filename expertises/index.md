@@ -32,43 +32,43 @@ title: Mes expertises
 </div>
 <div class="row p-md-5 m-md-5">
   <div class="col-lg-4 col-md-6 box creation align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/creation_structuration_entrerprises">
+    <a href="{{ site.baseurl }}/expertises/creation_structuration_entreprises.html">
       <img src="{{ site.baseurl }}/images/Creation et structuration d entreprise.svg">
       <h3 class="pt-3">Création et structuration d'entreprises</h3>
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box controle align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/controle_contentieux_fiscal">
+    <a href="{{ site.baseurl }}/expertises/controle_contentieux_fiscal.html">
       <img src="{{ site.baseurl }}/images/Controle et contentieux fiscal.svg">
       <h3 class="pt-3">Contrôle et contentieux fiscal</h3>
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box dirigeants align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/fiscalite_dirigeants_famille">
+    <a href="{{ site.baseurl }}/expertises/fiscalite_dirigeants_famille.html">
       <img src="{{ site.baseurl }}/images/Fiscalite des dirigeants et de la famille.svg">
       <h3 class="pt-3">Fiscalité des dirigreants et de la famille</h3>
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box transmission align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/transmission_entreprises">
+    <a href="{{ site.baseurl }}/expertises/transmission_entreprises.html">
       <img src="{{ site.baseurl }}/images/Transmission dâentreprise.svg">
       <h3 class="pt-3">Transmission d'entreprises</h3>
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box declaration align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/declarations_revenus_ifi">
+    <a href="{{ site.baseurl }}/expertises/declarations_revenus_ifi.html">
       <img src="{{ site.baseurl }}/images/Declarations de revenus et impot sur la fortune immobilier.svg">
       <h3 class="pt-3">Déclaration de revenus et d'impôt sur la fortune immobilière</h3>
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box associations align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/associations_et_fondations">
+    <a href="{{ site.baseurl }}/expertises/associations_et_fondations.html">
       <img src="{{ site.baseurl }}/images/Associations.svg">
       <h3 class="pt-3">Associations et fondations</h3>
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box securisation align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/securisation_fiscale">
+    <a href="{{ site.baseurl }}/expertises/securisation_fiscale.html">
       <img src="{{ site.baseurl }}/images/picto securisation@2x.png">
       <h3 class="pt-3">Sécurisation fiscale</h3>
     </a>
@@ -80,7 +80,7 @@ title: Mes expertises
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box strategie align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/strategie_fiscale">
+    <a href="{{ site.baseurl }}/expertises/strategie_fiscale.html">
       <img src="{{ site.baseurl }}/images/picto strategie ficale@2x.png">
       <h3 class="pt-3">Stratégie fiscale</h3>
     </a>
