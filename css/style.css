@@ -185,54 +185,64 @@ header {
     background-color: #FAEEE5;
 }
 
-.creation {
+.creation, .creation a, .creation a:hover, .creation a:link {
     background-color: #F4DFCC;
     color: #30425A;
+    text-decoration: none;
 }
 
-.strategie {
+.strategie, .strategie a, .strategie a:hover, .strategie a:link {
     background-color: #FAEEE5;
     color: #30425A;
+    text-decoration: none;
 } 
 
-.controle {
+.controle, .controle a, .controle a:hover, .controle a:link {
     background-color: #E99283;
     color: #FAEEE5;
+    text-decoration: none;
 }
 
-.fiscalite {
+.fiscalite, .fiscalite a, .fiscalite a:hover, .fiscalite a:link{
     background-color: #30425A;
     color: #FAEEE5;
+    text-decoration: none;
 }
 
-.transmission {
+.transmission, .transmission a, .transmission a:hover, .transmission a:link {
     background-color: #FAEEE5;
     color: #30425A;
+    text-decoration: none;
 }
 
-.declaration {
+.declaration, .declaration a, .declaration a:hover, .declaration a:link {
     background-color: #F4DFCC;
     color: #30425A;
+    text-decoration: none;
 }
 
 .blank {
     background-color: #FFFFFF;
     color: #FAEEE5;
+    text-decoration: none;
 }
 
-.associations {
+.associations, .associations a, .associations a:hover, .associations a:link {
     background-color: #E99283;
     color: #FAEEE5;
+    text-decoration: none;
 }
 
-.securisation {
+.securisation, .securisation a, .securisation a:hover, .securisation a:link {
     background-color:  #73A7AF;
     color: #FAEEE5;
+    text-decoration: none;
 }
 
-.dirigeants {
+.dirigeants, .dirigeants a, .dirigeants a:hover, .dirigeants a:link {
     background-color: #30425A;
     color: #FAEEE5;
+    text-decoration: none;
 }
 
 .address {
