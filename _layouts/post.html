@@ -1,0 +1,20 @@
+<!-- Content -->
+{% include header.html %}
+<div class="article">
+    {% include nav.html %}
+    <div class="row p-5">
+        <h1>{{ page.title }}</h1>
+        Le {{ page.date | date: "%d/%m/%Y" }}
+    </div>
+    <div class="row">
+        <div class="col-md-12 p-0">
+            <img src="{{ site.baseurl }}/{{ page.image }}" alt="Article" class="content-picture">
+        </div>
+    </div>
+    <div class="row p-5">
+        <div class="col-md-12">
+            {{ page.content }}
+        </div>
+    </div>
+</div>
+{% include footer.html %}

@@ -173,7 +173,7 @@ header {
     margin-left: -6em;
 }
 
-.expertises h2, .expertises-sm h2 {
+.expertises h2, .expertises-sm h2, .news h2 {
     font-family: Montserrat-Bold
 }
 
@@ -291,4 +291,12 @@ header {
 
 .dg {
     border: 1px solid red
+}
+
+.news-image {
+    width: 100%;
+}
+
+.news p {
+    font-family: 'Barlow-Regular';
 }
