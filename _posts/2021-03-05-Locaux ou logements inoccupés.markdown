@@ -3,7 +3,7 @@ layout: post
 title:  "Locaux ou logements inoccupés : comment obtenir une exonération de taxe foncière ?"
 date:   2021-03-05 15:44:54 +0100
 image: "images/news/alessandra-onisor-uH9gcWRCN6s-unsplash.jpg"
-categories: site-internet taxe-foncière exonération
+categories: taxe-foncière exonération
 ---
 Obtenir une exonération de taxe foncière : c’est possible notamment en cas de logements qui ne peuvent être loués ou de locaux industriels ou commerciaux qui ne peuvent pas être exploités.
 

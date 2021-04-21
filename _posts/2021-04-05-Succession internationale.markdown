@@ -3,7 +3,7 @@ layout: post
 title:  "Succession internationale : les règles d’imposition en France"
 date:   2021-04-05 16:30:54 +0100
 image: "images/news/maksym-kaharlytskyi-DXlU8vIoAIo-unsplash.jpg"
-categories: site-internet taxe-foncière exonération
+categories: succession international
 ---
 Avec l’accroissement de la mobilité internationale, il est fréquent aujourd’hui qu’une personne résidant en France reçoive une succession d’un parent décédé à l’étranger ou reçoive des biens situés à l’étranger (par exemple un immeuble ou une assurance-vie). 
 
