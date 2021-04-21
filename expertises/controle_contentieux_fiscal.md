@@ -16,6 +16,9 @@ title: Contrôle et contentieux fiscal
         </ul>
         <p>Le Cabinet assiste également les entreprises et particuliers en matière de réclamation fiscale.</p>
     </div>
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/sam-moqadam-DSn1k2kCriA-unsplash.jpg" alt="Expertises" class="content-picture">
+    </div>
     <div class="col-md-12 p-5 dark">
         <p>Exemples :</p>
         <ul>

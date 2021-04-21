@@ -8,6 +8,9 @@ title: Fiscalité des dirigeants et de la famille
         <p>Il conseille également les particuliers sur l’organisation de leur patrimoine et leur transmission, notamment en présence de familles recomposées.</p>
         <p>Il assiste aussi les héritiers et leur famille en matière de succession nationale et internationale.</p>
     </div>
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/zeyn-afuang-9xp0AWvlGC4-unsplash.jpg" alt="Expertises" class="content-picture">
+    </div>
     <div class="col-md-12 p-5 dark">
         <p>Exemples :</p>
         <ul>

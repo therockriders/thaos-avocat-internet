@@ -12,4 +12,7 @@ title: Fiscalité des activités numériques
             <li>Sécurisation fiscale des activités de <em>dropshipping</em></li>
         </ul>
     </div>
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/marius-masalar-CyFBmFEsytU-unsplash.jpg" alt="Expertises" class="content-picture">
+    </div>
 </div>

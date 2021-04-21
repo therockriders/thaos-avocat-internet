@@ -11,6 +11,9 @@ title: Transmission d’entreprises
             <li>Optimisation de la fiscalité liée à la cession d’entreprise : évaluation du coût fiscal, recherche sur le meilleur schéma d’acquisition ou de cession au plan fiscal, donations avant cession</li>
         </ul>
     </div>
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/jon-tyson-STJsZCi4xLw-unsplash.jpg" alt="Expertises" class="content-picture">
+    </div>
     <div class="col-md-12 p-5 dark">
         <p>Exemples :</p>
         <ul>

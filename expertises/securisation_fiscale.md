@@ -11,6 +11,9 @@ title: Sécurisation fiscale
         </ul>
         <p>Plus généralement, le Cabinet THAOS AVOCAT sécurise les opérations notamment au regard de l’abus de droit et du nouveau « mini » abus de droit.</p>
     </div>
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/raimond-klavins-F3S18VW1OfY-unsplash.jpg" alt="Expertises" class="content-picture">
+    </div>
     <div class="col-md-12 p-5 dark">
         <p>Exemples :</p>
         <ul>

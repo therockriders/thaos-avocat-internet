@@ -13,6 +13,9 @@ title: Stratégie fiscale
             <li>Politique de distribution de dividendes et déclarations correspondantes, notamment en présence de sociétés établies à l’étranger</li>
         </ul>
     </div>
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/maarten-van-den-heuvel-_pc8aMbI9UQ-unsplash.jpg" alt="Expertises" class="content-picture">
+    </div>
     <div class="col-md-12 p-5 dark">
         <p>Exemples :</p>
         <ul>

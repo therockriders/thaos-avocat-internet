@@ -11,6 +11,9 @@ title: Déclarations de revenus et d’IFI
             <li>Déclarations des dispositifs de défiscalisation immobiliers en Métropole et Outre-mer</li>
         </ul>
     </div>
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/macau-photo-agency-G_zVWUE9huw-unsplash.jpg" alt="Expertises" class="content-picture">
+    </div>
     <div class="col-md-12 p-5 dark">
         <p>Exemples :</p>
         <ul>

@@ -18,6 +18,9 @@ title: Création et structuration d’entreprises
         <p>Il intervient notamment pour une clientèle internationale et travaille en partenariat avec des conseils juridiques fiscaux locaux dans les différents pays concernés.</p>
         <p>Le Cabinet a développé une expertise spécifique en matière de fiscalité en Outre-mer.</p>
     </div>
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/myrlene-numa-SnITZTTeJVE-unsplash.jpg" alt="Expertises" class="content-picture">
+    </div>
     <div class="col-md-12 p-5 dark">
         <p>Exemples :</p>
         <ul>
