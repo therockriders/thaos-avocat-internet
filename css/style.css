@@ -80,6 +80,7 @@ header {
 .title h1 {
     font-family: 'Montserrat-Bold';
     font-size: 4em;
+    font-weight: bold;
 }
 
 .container-left {
@@ -174,7 +175,13 @@ header {
 }
 
 .expertises h2, .expertises-sm h2, .news h2 {
-    font-family: Montserrat-Bold
+    font-family: Montserrat-Bold;
+    font-weight: bold;
+}
+
+.news a:hover, .news a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .expertises p, .expertises-sm p {

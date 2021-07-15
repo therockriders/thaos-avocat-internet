@@ -142,9 +142,11 @@ title: Home
   <div id="news" class="row news pb-5">
     {% for post in site.posts %}
     <article class="col-lg-4">
-        <a href="{{ site.baseurl }}{{post.url}}"><img src="{{ site.baseurl }}/{{post.image}}" alt="{{post.title}}" class="news-image"/></a>
-        <h2 class="pt-2 pr-2 pl-2">{{post.title}}</h2>
-        <p class="p-2">{{post.excerpt}}</p>
+        <a href="{{ site.baseurl }}{{post.url}}">
+          <img src="{{ site.baseurl }}/{{post.image}}" alt="{{post.title}}" class="news-image"/>
+          <h2 class="pt-5 pr-5 pl-5">{{post.title}}</h2>
+        </a>
+        <p class="pr-5 pl-5">{{post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
     </article>
     {% endfor %}
   </div>
