@@ -42,8 +42,9 @@ title: Contactez moi
         <label for="contactMessage">MESSAGE</label>
         <textarea class="form-control" id="contactMessage" rows="3"></textarea>
       </div>
+      <p class="required-form-fields">*champs requis</p>
     </div>
-    <div class="col-md-12 p-md-5">
+    <div class="col-md-12 p-md-5 text-right">
       <button type="submit" class="btn btn-primary">Envoyer</button>
     </div>
   </div>
