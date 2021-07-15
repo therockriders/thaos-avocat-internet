@@ -19,7 +19,7 @@ title: Home
           </div>
         </div>
         <div class="row description-container">
-          <div class="col-lg-12 description d-none d-sm-none d-md-block">
+          <div class="col-lg-12 description d-none d-sm-none d-md-block p-5">
             <p>Le Cabinet THAOS AVOCAT intervient dans tous les domaines de la fiscalité.</p>
             <p>Il accompagne les entreprises et les dirigeants lors de leurs opérations de création, structuration et
               transmission ainsi que dans la gestion au quotidien de la fiscalité. Il les assiste afin de sécuriser au
@@ -138,3 +138,15 @@ title: Home
         <h3 class="pt-3">Stratégie fiscale</h3>
       </div>
     </div>
+  </div>
+  <div id="news" class="row news pb-5">
+    {% for post in site.posts %}
+    <article class="col-lg-4">
+        <a href="{{ site.baseurl }}{{post.url}}">
+          <img src="{{ site.baseurl }}/{{post.image}}" alt="{{post.title}}" class="news-image"/>
+          <h2 class="pt-5 pr-5 pl-5">{{post.title}}</h2>
+        </a>
+        <p class="pr-5 pl-5">{{post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+    </article>
+    {% endfor %}
+  </div>
