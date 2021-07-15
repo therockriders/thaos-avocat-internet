@@ -352,3 +352,13 @@ label {
     background-color: inherit;
     border-color: transparent;
 }
+
+.contact-nav {
+    font-family: Montserrat-Bold;
+    height: 100px;
+    color: #30425A;
+}
+
+.contact-nav img {
+    width: 20px;
+}
