@@ -152,6 +152,15 @@ header {
     background-color: #FAEEE5
 }
 
+.article .light {
+    background-color: #FFFFFF
+}
+
+.article .darker {
+    background-color: #30425A;
+    color: #FAEEE5;
+}
+
 .picture img {
     width: 100%;
 }
@@ -257,7 +266,7 @@ header {
     color: #30425A;
 }
 
-.map img {
+.map img, .contact img {
     width: 100%;
 }
 
