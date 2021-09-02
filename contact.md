@@ -14,6 +14,9 @@ title: Contactez-moi
         <p>Loin, très loin, au delà des monts Mots, à mille lieues des pays Voyellie et Consonnia, demeurent les Bolos Bolos. Ils vivent en retrait, à Bourg-en-Lettres, sur les côtes de la Sémantique, un vaste océan de langues.</p>
         <div class="contact-boxes">
           <div class="contact-boxes-item">
+            <img src="images/phone-sticky-salmon.png" alt="Contactez-nous par téléphone"><span>07 85 89 68 58</span>
+          </div>
+          <div class="contact-boxes-item">
             <a href="mailto:e.leguellec@thaos-avocat.com?subject=Demande de renseignements"><img src="images/mail-sticky-salmon.png" alt="Contactez-nous par mail"><span>e.leguellec AT thaos-avocat.com</span></a>
           </div>
           <div class="contact-boxes-item">
