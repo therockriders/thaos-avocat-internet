@@ -133,7 +133,7 @@ header {
 }
 
 .article h1 {
-    font-size: 4em;
+    font-size: 3em;
 }
 
 .article h2 {
@@ -362,3 +362,19 @@ label {
 .contact-nav img {
     width: 20px;
 }
+
+.contact-boxes {
+    text-align: left;
+}
+.contact-boxes-item {
+    margin-bottom: 1em;
+}
+
+.contact-boxes-item img {
+    margin-right: 1em;
+}
+
+.contact-boxes a:hover, .contact-boxes a {
+    text-decoration: none;
+    color: inherit;
+}<a href="mailto:e.leguellec@thaos-avocat.com?subject=Demande de renseignements">
