@@ -133,7 +133,7 @@ header {
 }
 
 .article h1 {
-    font-size: 4em;
+    font-size: 3em;
 }
 
 .article h2 {
@@ -150,6 +150,15 @@ header {
 
 .article .dark {
     background-color: #FAEEE5
+}
+
+.article .light {
+    background-color: #FFFFFF
+}
+
+.article .darker {
+    background-color: #30425A;
+    color: #FAEEE5;
 }
 
 .picture img {
@@ -255,9 +264,14 @@ header {
 .address {
     background-color: #FAEEE5;
     color: #30425A;
+    font-weight: bold;
 }
 
-.map img {
+.address h2 {
+    font-weight: bold;
+}
+
+.map img, .contact img {
     width: 100%;
 }
 
@@ -310,4 +324,57 @@ header {
 
 .honoraire-blk img {
     width: 33%
+}
+
+label {
+    font-family: Montserrat-Bold;
+    font-weight: bold;
+    color: #F4DFCC;
+}
+
+.required-form-fields {
+    font-family: 'Barlow-Regular';
+    font-style: italic;
+    color: #F4DFCC;
+}
+
+.form-control, .form-control:hover {
+    border-radius: 0;
+    border: 1px solid #F4DFCC;
+    background-color: #30425A;
+    color: #F4DFCC;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active {
+    font-family: Montserrat-Bold;
+    color: #E99283;
+    text-transform: uppercase;
+    background-color: inherit;
+    border-color: transparent;
+}
+
+.contact-nav {
+    font-family: Montserrat-Bold;
+    height: 100px;
+    color: #30425A;
+}
+
+.contact-nav img {
+    width: 20px;
+}
+
+.contact-boxes {
+    text-align: left;
+}
+.contact-boxes-item {
+    margin-bottom: 1em;
+}
+
+.contact-boxes-item img {
+    margin-right: 1em;
+}
+
+.contact-boxes a:hover, .contact-boxes a {
+    text-decoration: none;
+    color: inherit;
 }
