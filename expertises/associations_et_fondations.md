@@ -4,7 +4,7 @@ title: Associations et fondations
 ---
 <div class="row text-justify">
     <div class="col-md-3"></div>
-    <div class="col-md-6 p-5">
+    <div class="col-md-6 p-4">
         <p>Le Cabinet THAOS AVOCAT accompagne les associations et autres organismes sans but lucratif afin de les aider et conseiller dans leurs démarches juridiques et fiscales, ainsi que dans leurs relations avec les services fiscaux.</p>
         <ul>
             <li>Création d’associations, de fonds de dotation et de fondations</li>
@@ -23,7 +23,7 @@ title: Associations et fondations
 </div>
 <div class="row text-justify dark">
     <div class="col-md-3"></div>
-    <div class="col-md-6 p-5">
+    <div class="col-md-6 p-4">
         <p>Exemples :</p>
         <ul>
             <li>Assistance du Président d’une association ayant apporté d’importants fonds et souhaitant les récupérer dans le cadre de son éviction</li>
