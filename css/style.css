@@ -387,3 +387,12 @@ label {
 .article p {
     text-align: justify;
 }
+
+.right-menu {
+    width: 92px;
+    height: 300px;
+    position: fixed;
+    right: 25px;
+    top: 150px;
+    z-index: 1021;
+}
