@@ -17,7 +17,7 @@ title: Contactez-moi
             <a href="tel:0785896858"><img src="images/phone-sticky-salmon.png" alt="Contactez-nous par téléphone"><span>07 85 89 68 58</span></a>
           </div>
           <div class="contact-boxes-item">
-            <a href="mailto:e.leguellec@thaos-avocat.com?subject=Demande de renseignements"><img src="images/mail-sticky-salmon.png" alt="Contactez-nous par mail"><span>e.leguellec AT thaos-avocat.com</span></a>
+            <a href="mailto:e.leguellec@thaos-avocat.com?subject=Demande de renseignements"><img src="images/mail-sticky-salmon.png" alt="Contactez-nous par mail"><span>e.leguellec@thaos-avocat.com</span></a>
           </div>
           <div class="contact-boxes-item">
             <a href="https://www.linkedin.com/in/esther-le-guellec-98736873/"><img src="images/LinkedIn-sticky-salmon.png" alt="Contactez-nous par LinkedIn"> LinkedIn</a>

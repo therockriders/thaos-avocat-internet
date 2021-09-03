@@ -25,10 +25,12 @@ title: Mes expertises
   </div>
 </div>
 <div class="row text-justify">
-  <div class="col-md-12 p-5">
+  <div class="col-md-3"></div>
+  <div class="col-md-6 p-4">
     <h2 class="text-right">Mes expertises</h2>
     <p>Loin, très loin, au delà des monts Mots, à mille lieues des pays Voyellie et Consonnia, demeurent les Bolos Bolos. Ils vivent en retrait, à Bourg-en-Lettres, sur les côtes de la Sémantique, un vaste océan de langues.</p>
   </div>
+  <div class="col-md-3"></div>
 </div>
 <div class="row p-md-5 m-md-5">
   <div class="col-lg-4 col-md-6 box creation align-middle p-5">
