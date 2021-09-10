@@ -396,3 +396,8 @@ label {
     top: 150px;
     z-index: 1021;
 }
+
+.right-menu .up-item {
+    margin-top: 8em;
+}
+
