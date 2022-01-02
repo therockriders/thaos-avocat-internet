@@ -96,7 +96,7 @@ title: Mes expertises
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box fiscalite align-middle p-5">
-    <a href="{{ site.baseurl }}/expertises/fiscalite_activites_numeriques">
+    <a href="{{ site.baseurl }}/expertises/fiscalite_activites_numeriques.html">
       <img src="{{ site.baseurl }}/images/picto fiscalite 4.0@2x.png">
       <h3 class="pt-3">Fiscalité des activités numériques</h3>
     </a>
