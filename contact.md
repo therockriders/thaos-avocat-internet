@@ -10,8 +10,9 @@ title: Contactez-moi
         </a>
       </div>
       <div class="col-md-12 pr-md-5 pl-md-5 pt-3 pb-3">
-        <h3>Une avocate à vos côtés</h3>
-        <p>Loin, très loin, au delà des monts Mots, à mille lieues des pays Voyellie et Consonnia, demeurent les Bolos Bolos. Ils vivent en retrait, à Bourg-en-Lettres, sur les côtes de la Sémantique, un vaste océan de langues.</p>
+        <h3>Contactez-moi</h3>
+        <p>Pour se rencontrer, échanger ou pour toute question, n’hésitez pas à me contacter.</p>
+        <p>Je vous répondrai dans les meilleurs délais</p>
         <div class="contact-boxes">
           <div class="contact-boxes-item">
             <a href="tel:0785896858"><img src="images/phone-sticky-salmon.png" alt="Contactez-nous par téléphone"><span>07 85 89 68 58</span></a>
