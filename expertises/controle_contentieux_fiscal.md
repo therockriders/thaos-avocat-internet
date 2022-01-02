@@ -7,6 +7,7 @@ title: Contrôle et contentieux fiscal
     <div class="col-md-6 p-4">
         <p>Le Cabinet THAOS AVOCAT assiste et conseille les entreprises, les particuliers et les associations en cas de contrôle fiscal, et dans le cadre des négociations avec l’administration fiscale.</p>
         <p>Il intervient également en cas de contentieux fiscal devant les juridictions françaises et européennes.</p>
+        <h3>En moyenne et en fonction des dossiers, le Cabinet parvient à obtenir l’annulation des redressements fiscaux selon une fourchette allant de 50% à 100%.</h3>
         <ul>
             <li>Assistance en cas de contrôle fiscal des entreprises (vérification de comptabilité, demandes de renseignements, contrôle des comptabilités informatisées notamment)</li>
             <li>Assistance en cas de contrôle fiscal des particuliers (examen de situation fiscale personnelle, demandes de renseignements et de déclarations, notamment d’ISF et d’IFI)</li>

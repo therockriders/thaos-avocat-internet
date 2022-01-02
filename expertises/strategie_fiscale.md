@@ -6,7 +6,7 @@ title: Stratégie fiscale
     <div class="col-md-3"></div>
     <div class="col-md-6 p-4">
         <p>Le Cabinet THAOS AVOCAT conseille les entreprises et les particuliers dans la gestion au quotidien de la fiscalité.</p>
-        <p>Plus globalement, il apporte un conseil stratégique et pertinent en tenant compte des ???</p>
+        <p>Plus globalement, il apporte un conseil stratégique et pertinent en tenant compte des différents enjeux de ses clients (économiques, financiers, familiaux, etc.). </p>
         <p>Le Cabinet intervient notamment sur les sujets suivants :</p>
         <ul>
             <li>Organisation des flux financiers entre les structures (sociétés opérationnelles, structures immobilières, holdings, etc.)</li>
