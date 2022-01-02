@@ -4,11 +4,31 @@ title: Mes expertises
 ---
 <div class="row text-justify dark">
   <div class="col-md-5 p-5">
-    <h3>Une avocate à vos côtés</h3>
-    <p>Loin, très loin, au delà des monts Mots, à mille lieues des pays Voyellie et Consonnia, demeurent les Bolos Bolos. Ils vivent en retrait, à Bourg-en-Lettres, sur les côtes de la Sémantique, un vaste océan de langues.</p>
-    <p>Un petit ruisseau, du nom de Larousse, coule en leur lieu et les approvisionne en régalades nécessaires en tout genre; un pays paradisiagmatique, dans lequel des pans entiers de phrases prémâchées vous volent littéralement tout cuit dans la bouche. Pas même la toute puissante Ponctuation ne régit les Bolos Bolos - une vie on ne peut moins orthodoxographique. Un jour pourtant, une petite ligne de Bolo Bolo du nom de Lorem Ipsum décida de s’aventurer dans la vaste Grammaire.</p>
-    <p>Le grand Oxymore voulut l’en dissuader, le prevenant que là-bas cela fourmillait de vils Virgulos, de sauvages Pointdexclamators et de sournois Semicolons qui l’attendraient pour sûr au prochain paragraphe, mais ces mots ne firent écho dans l’oreille du petit Bolo qui ne se laissa point déconcerter.</p>
-    <h3>Voyez ce jeu exquis wallon, de graphie en kit mais bref.</h3>
+    <h3>Esther LE GUELLEC, une avocate à vos côtés,</h3>
+    <p>Je suis avocate fiscaliste depuis 2011 et j’ai créé le Cabinet THAOS AVOCAT en 2020.</p>
+    <p>Je possède une expérience de près de 10 ans en fiscalité, acquise au sein de cabinets d’affaires parisiens, nantais et rennais ainsi que dans un grand groupe international.</p>
+    <h3>Formation</h3>
+    <ul>
+      <li>Master 1 Droit et Gestion – Paris Dauphine PSL</li>
+      <li>Master 2 (221) Fiscalité de l’Entreprise – Paris Dauphine PSL</li>
+      <li>Ecole des Avocats du Grand Ouest - Bruz</li>
+    </ul>
+    <h3>Expérience professionnelle</h3>
+    <ul>
+      <li>2008 – 2009 : Stages au sein des cabinets TAJ Sociétés d’avocats (Paris) et EY société d’avocats (Nantes)</li>
+      <li>2010 : Stage au sein de l’Administration fiscale et à la chambre fiscale du Tribunal administratif de Rennes</li>
+      <li>2011 – 2013 : Cabinets d’affaires rennais</li>
+      <li>2013 – 2015 : Fiscaliste international – Groupe Roullier</li>
+      <li>2015 – 2019 : Cabinets d’affaires rennais</li>
+    </ul>
+    <h3>Engagements</h3>
+    <ul>
+      <li>Membre de l’IACF (Institut des Avocats Conseils Fiscaux)</li>
+      <li>Associé de la société Time For The Planet</li>
+      <li>Membre de l’Association CIGALES Bretagne</li>
+      <li>Membre de l’Incubateur du Barreau de Rennes</li>
+      <li>Co-fondatrice du Groupe Dauphine Alumni Chapter Rennes</li>
+    </ul>
   </div>
   <div class="col-md-2 p-5">
     <div class="row">
