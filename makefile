@@ -8,8 +8,8 @@ push:
 	lftp ftp://thaosavont@ftp.cluster028.hosting.ovh.net -e "mirror -e --ignore-time -R _site www; quit"
 	
 push_test:
-	lftp ftp://jul.legall@ftpperso.free.fr -e "mirror -e --ignore-time -R _site thaos-avocat; put -O thaos-avocat/ _free_access/.htaccess; put -O thaos-avocat/ _free_access/.htpasswd; quit"
-
+	rsync -avz --delete-after _site/ artemis:/var/www/thaos-avocat/
+	
 deploy_local: build push_local
 
 deploy_test: build push_test

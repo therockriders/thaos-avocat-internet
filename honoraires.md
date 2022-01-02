@@ -14,8 +14,9 @@ title: Mes honoraires
         <h3>Honoraires au temps passé :</h3>
         <p>Les taux horaires du Cabinet THAOS AVOCAT sont les suivants :</p>
         <ul>
-          <li>160 € H.T. pour les particuliers</li>
+          <li>170 € H.T. pour les particuliers</li>
           <li>190 € H.T. pour les professionnels et entreprises</li>
+          <li>205 € H.T. en matière de fiscalité internationale</li>
         </ul>
       </div>
       <div class="col-md-3 pr-3 pl-3 honoraire-blk">
@@ -26,7 +27,7 @@ title: Mes honoraires
       <div class="col-md-3 pr-3 pl-3 honoraire-blk">
         <img src="{{ site.baseurl }}/images/honoraires/Honoraire resultat.svg">
         <h3>Honoraires de résultat :</h3>
-        <p>Il est le complément de l’honoraire forfaitaire. Son montant correspond à un pourcentage prédéfini des gains obtenus ou des sommes économisées par le client.</p>
+        <p>Il est le complément de l’honoraire forfaitaire. Son montant correspond à un pourcentage prédéfini des dégrèvements définitivement obtenus par le client (en matière de contentieux fiscal). .</p>
       </div>
       <div class="col-md-3 pr-3 pl-3 honoraire-blk">
         <img src="{{ site.baseurl }}/images/honoraires/Abonnement.svg">
