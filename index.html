@@ -158,7 +158,7 @@ title: Home
     </div>
   </div>
   <div id="news" class="row news pb-5">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:3 %}
     <article class="col-lg-4">
         <a href="{{ site.baseurl }}{{post.url}}">
           <img src="{{ site.baseurl }}/{{post.image}}" alt="{{post.title}}" class="news-image"/>
