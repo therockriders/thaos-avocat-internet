@@ -21,7 +21,7 @@ title: Création et structuration d’entreprises
     </div>
     <div class="col-md-3"></div>
     <div class="col-md-12 p-0">
-        <img src="{{ site.baseurl }}/images/expertises/myrlene-numa-SnITZTTeJVE-unsplash.jpg" alt="Expertises" class="content-picture">
+        <img src="{{ site.baseurl }}/images/expertises/AdobeStock_239826076_min.jpg" alt="Expertises" class="content-picture">
     </div>
     <div class="col-md-3 dark"></div>
     <div class="col-md-6 p-4 dark">

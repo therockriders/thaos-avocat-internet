@@ -48,7 +48,6 @@ title: Mes expertises
   <div class="col-md-3"></div>
   <div class="col-md-6 p-4">
     <h2 class="text-right">Mes expertises</h2>
-    <p>Loin, très loin, au delà des monts Mots, à mille lieues des pays Voyellie et Consonnia, demeurent les Bolos Bolos. Ils vivent en retrait, à Bourg-en-Lettres, sur les côtes de la Sémantique, un vaste océan de langues.</p>
   </div>
   <div class="col-md-3"></div>
 </div>
@@ -68,7 +67,7 @@ title: Mes expertises
   <div class="col-lg-4 col-md-6 box dirigeants align-middle p-5">
     <a href="{{ site.baseurl }}/expertises/fiscalite_dirigeants_famille.html">
       <img src="{{ site.baseurl }}/images/Fiscalite des dirigeants et de la famille.svg">
-      <h3 class="pt-3">Fiscalité des dirigreants et de la famille</h3>
+      <h3 class="pt-3">Fiscalité des dirigeants et de la famille</h3>
     </a>
   </div>
   <div class="col-lg-4 col-md-6 box transmission align-middle p-5">

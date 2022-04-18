@@ -12,10 +12,10 @@ title: Fiscalité des dirigeants et de la famille
     <div class="col-md-3"></div>
     <div class="col-md-3"></div>
     <div class="col-md-6 p-0">
-        <img src="{{ site.baseurl }}/images/expertises/zeyn-afuang-9xp0AWvlGC4-unsplash.jpg" alt="Expertises" class="content-picture">
+        <img src="{{ site.baseurl }}/images/expertises/AdobeStock_190173026_min.jpg" alt="Expertises" class="content-picture">
     </div>
     <div class="col-md-3"></div>
-    <div class="row dark">
+    <div class="row dark col-md-12">
         <div class="col-md-3"></div>
         <div class="col-md-6 p-4">
             <p>Exemples :</p>

@@ -15,7 +15,7 @@ title: Déclarations de revenus et d’IFI
     <div class="col-md-3"></div>
     <div class="col-md-3"></div>
     <div class="col-md-6 p-0">
-        <img src="{{ site.baseurl }}/images/expertises/macau-photo-agency-G_zVWUE9huw-unsplash.jpg" alt="Expertises" class="content-picture">
+        <img src="{{ site.baseurl }}/images/expertises/AdobeStock_69314109_min.jpg" alt="Expertises" class="content-picture">
     </div>
     <div class="col-md-3"></div>
     <div class="col-md-3 dark"></div>

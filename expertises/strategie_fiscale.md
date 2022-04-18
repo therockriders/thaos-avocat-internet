@@ -15,12 +15,10 @@ title: Stratégie fiscale
         </ul>
     </div>
     <div class="col-md-3"></div>
-    <div class="col-md-3"></div>
-    <div class="col-md-6 p-0">
-        <img src="{{ site.baseurl }}/images/expertises/maarten-van-den-heuvel-_pc8aMbI9UQ-unsplash.jpg" alt="Expertises" class="content-picture">
+    <div class="col-md-12 p-0">
+        <img src="{{ site.baseurl }}/images/expertises/AdobeStock_466214524_min.jpg" alt="Expertises" class="content-picture">
     </div>
-    <div class="col-md-3"></div>
-    <div class="row dark">
+    <div class="row dark col-md-12">
         <div class="col-md-3"></div>
         <div class="col-md-6 p-4 dark">
             <p>Exemples :</p>
