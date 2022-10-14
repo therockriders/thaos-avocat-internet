@@ -2,7 +2,7 @@
 layout:    "post"
 date:      "2022-04-18 21:20:16+02:00"
 title:     "Déclaration de revenus 2021"
-image: "images/news/tangi-bertin-6me6sOhHF1U-unsplash.jpg"
+image: "images/news/2022/veronica-reverse-IztUTHibAG4-unsplash.jpg"
 categories: déclaration-de-revenus
 ---
 La campagne de déclaration des revenus 2021 s'est ouverte le 8 avril 2022 sur le site de l'Administration (impots.gouv.fr). Mais comment s'y retrouver entre les différentes dates de déclaration, le format papier ou en ligne, la déclaration automatique ?

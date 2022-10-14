@@ -2,7 +2,7 @@
 layout:    "post"
 date:      "2022-04-18 21:36:16+02:00"
 title:     "Proposition de rectification : comment la contester"
-image: "images/news/tangi-bertin-6me6sOhHF1U-unsplash.jpg"
+image: "images/news/2022/20210615-THAOS-AVOCAT-008-Edit.jpg"
 categories: proposition-de-rectification
 ---
 Vous avez reçu une proposition de rectification de la part de l’administration fiscale. Contrairement à ce que peut laisser penser l’intitulé de ce courrier, il ne s’agit pas véritablement d’une "proposition" mais d’un redressement fiscal qui deviendra définitif à défaut de contestation de votre part. Comment faire en pratique pour contester cette proposition de rectification et quelles sont les délais à respecter ?
