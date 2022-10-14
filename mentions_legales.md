@@ -19,7 +19,7 @@ title: Mentions légales
       RCS Lille Métropole 424 761 419 00045<br>
       Siège social : 2 rue Kellermann – 59100 Roubaix – France<br>
       <br>
-      Crédits photos > © David Ferrière > http://davidferriere.com/<br>
+      Crédits photos > © David Ferrière > https://davidferriere.com/, Unplash > https://unsplash.com/<br>
       <br>
       Conception / Réalisation > © Marie Stum https://www.mariestum.com/<br>
       <h3>2. EXONERATION DE RESPONSABILITE</h3>
