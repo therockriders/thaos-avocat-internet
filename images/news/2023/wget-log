@@ -1,0 +1,16 @@
+--2023-11-23 14:55:10--  https://unsplash.com/photos/iXKkFEEvCxI/download?ixid=M3wxMjA3fDB8MXx0b3BpY3x8NnNNVmpUTFNrZVF8fHx8fDJ8fDE3MDA3NDM3ODh8
+Résolution de unsplash.com (unsplash.com)… 151.101.1.181, 151.101.65.181, 151.101.129.181, ...
+Connexion à unsplash.com (unsplash.com)|151.101.1.181|:443… connecté.
+requête HTTP transmise, en attente de la réponse… 302 Found
+Emplacement : https://images.unsplash.com/photo-1700660354937-db270cbce838?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb [suivant]
+--2023-11-23 14:55:10--  https://images.unsplash.com/photo-1700660354937-db270cbce838?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb
+Résolution de images.unsplash.com (images.unsplash.com)… 2a04:4e42:6a::720, 199.232.170.208
+Connexion à images.unsplash.com (images.unsplash.com)|2a04:4e42:6a::720|:443… connecté.
+requête HTTP transmise, en attente de la réponse… 200 OK
+Taille : 4409747 (4,2M) [image/jpeg]
+Enregistre : «download?ixid=M3wxMjA3fDB8MXx0b3BpY3x8NnNNVmpUTFNrZVF8fHx8fDJ8fDE3MDA3NDM3ODh8»
+
+          download?i   0%[                     ]       0  --.-KB/s               download?ixid=M3wxMj 100%[====================>]   4,21M  --.-KB/s    ds 0,06s   
+
+2023-11-23 14:55:10 (67,1 MB/s) - «download?ixid=M3wxMjA3fDB8MXx0b3BpY3x8NnNNVmpUTFNrZVF8fHx8fDJ8fDE3MDA3NDM3ODh8» enregistré [4409747/4409747]
+
