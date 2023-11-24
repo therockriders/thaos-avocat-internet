@@ -164,6 +164,7 @@ title: Home
           <img src="{{ site.baseurl }}/{{post.image}}" alt="{{post.title}}" class="news-image"/>
           <h2 class="pt-5 pr-5 pl-5">{{post.title}}</h2>
         </a>
+        <p class="pr-5 pl-5 font-weight-bold">Le {{ post.date | date : "%d/%m/%Y" }}
         <p class="pr-5 pl-5">{{post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
     </article>
     {% endfor %}

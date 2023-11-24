@@ -5,7 +5,7 @@ title: Contactez-moi
   <div class="row text-justify darker">
     <div class="col-md-6 p-0">
       <div class="col-md-12 pr-md-5 pl-md-5 light contact-nav">
-        <a href="{{ site.baseurl }}/#news">
+        <a href="{{ site.baseurl }}/actualités">
           <img src="{{ site.baseurl }}/images/fleche-left@2x.png"/> Actualités
         </a>
       </div>
