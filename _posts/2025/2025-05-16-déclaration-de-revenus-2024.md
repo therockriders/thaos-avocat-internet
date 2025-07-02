@@ -2,7 +2,7 @@
 layout:    "post"
 date:      "2025-05-16 11:40:34+02:00"
 title:     "Déclaration de revenus 2024"
-image:     "images/news/2024/pedro-lastra-5g8dJvtYRYA-unsplash-min.jpg"
+image:     "images/news/2025/pexels-n-voitkevich-6863176-min.jpg"
 categories:  ["article"]
 ---
 La campagne de déclaration des revenus 2024 s’est ouverte le 10 avril sur le site de l’Administration (impots.gouv.fr).

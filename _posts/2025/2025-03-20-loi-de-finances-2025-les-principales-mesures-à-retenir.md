@@ -22,6 +22,8 @@ imposition commune
 La loi de finances pour 2025 vient compléter ce dispositif. Elle introduit une contribution
 supplémentaire dite différentielle sous forme de taux d’imposition minimal.
 
+![Tableau - contribution exceptionnelle sur les hauts revenus]({{site.baseurl}}/images/news/2025/tableau-hauts-revenus.png)
+
 En effet, cette contribution ne remplace pas CEHR existante depuis 2012, mais vient s’y
 ajouter sous une nouvelle forme : contrairement à la CEHR, qui applique un taux fixe de 3 %
 ou 4 % sur les revenus fiscaux - comme présenté dans le tableau ci-avant - cette nouvelle
