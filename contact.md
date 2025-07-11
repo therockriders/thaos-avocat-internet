@@ -18,6 +18,9 @@ title: Contactez-moi
             <a href="tel:0785896858"><img src="images/phone-sticky-salmon.png" alt="Contactez-nous par téléphone"><span>07 85 89 68 58</span></a>
           </div>
           <div class="contact-boxes-item">
+            <a href="tel:0244513954"><img src="images/phone-sticky-salmon.png" alt="Contactez-nous par téléphone"><span>02 44 51 39 54</span></a>
+          </div>
+          <div class="contact-boxes-item">
             <a href="mailto:e.leguellec@thaos-avocat.com?subject=Demande de renseignements"><img src="images/mail-sticky-salmon.png" alt="Contactez-nous par mail"><span>e.leguellec@thaos-avocat.com</span></a>
           </div>
           <div class="contact-boxes-item">
