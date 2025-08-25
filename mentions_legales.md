@@ -9,7 +9,7 @@ title: Mentions légales
       Edition / Publication >  Société THAOS AVOCAT<br>
       SELARLU au capital social de 5.000,00 Euros<br>
       RCS > Rennes n°880 329 487<br>
-      Siège social > 9, rue Sébastopol à RENNES (35000)<br>
+      Siège social > 9, boulevard Sébastopol à RENNES (35000)<br>
       T > 07 85 89 68 58 / 02 44 51 39 54<br>
       M > e.leguellec@thaos-avocat.com<br>
       TVA Intracommunautaire > FR 28 880 329 487<br>
@@ -37,7 +37,7 @@ title: Mentions légales
       <h3>5. POLITIQUE DE CONFIDENTIALITE</h3>
       <p>THAOS AVOCAT collecte, en conformité avec les dispositions de la  Loi n°78/17 du 6 janvier 1978 Informatique et liberté (« LIL »), les données que les Utilisateurs choisissent de lui communiquer, tel que noms, adresses, courriel, etc., et les informations concernant la fréquentation du Site, en l’absence d’opposition à l’installation des cookies. La transmission à THAOS AVOCAT de leurs coordonnées par les Utilisateurs est nécessaire en cas de demande d’informations complémentaires, à défaut il ne sera pas donné suite à leur requête.</p>
       <p>Dans les conditions prescrites par la LIL, les Utilisateurs disposent à tout moment (i) d’un droit d’accès aux données les concernant, (i) de rectification, (iii) de limitation du traitement, (iv) de portabilité, (v) d’effacement, (vi) de s’opposer à tout moment, pour des raisons tenant à leur situation particulière, à un traitement des données à caractère personnel ayant comme base juridique l’intérêt légitime du cabinet, (vii) d’un droit d’opposition à la prospection commerciale et (viii) du droit d’introduire une réclamation auprès de la CNIL</p>
-      <p>Ces droits peuvent être exercés en écrivant à : THAOS AVOCAT, 9, rue Sébastopol à RENNES (35000), ou par courrier électronique, à l’adresse e.leguellec@thaos-avocat.com</p>
+      <p>Ces droits peuvent être exercés en écrivant à : THAOS AVOCAT, 9, boulevard Sébastopol à RENNES (35000), ou par courrier électronique, à l’adresse e.leguellec@thaos-avocat.com</p>
       <p>THAOS AVOCAT est susceptible de collecter diverses données personnelles (i) à l’occasion de l’utilisation du Site par chaque Utilisateur et (ii) lorsque que ces derniers internautes lui fournissent de telles données. En conséquence, THAOS AVOCAT est susceptible de traiter lesdites données personnelles notamment pour :</p>
       <ul>
         <li>Délivrerez des informations relatives aux services;</li>
