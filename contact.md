@@ -28,8 +28,12 @@ title: Contactez-moi
           </div>
         </div>
       </div>
+      <div class="col-md-12 pr-md-5 pl-md-5 pt-3 pb-3" style="background-color:#fff">
+        <h3 style="color:#30425A">Prise de rendez-vous en ligne</h3>
+        <a class='avocat-consultingwidget' href='https://consultation.avocat.fr/avocat-44451-9103.html' data-widget-id='23fbc20ad6c462ada815'>Consulter mon profil Avocat.fr</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://consultation.avocat.fr/js/consultingwidget.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','avocat-widget');</script>
+      </div>
     </div>
     <div class="col-md-6 contact p-0">
-      <img src="{{ site.baseurl }}/images/contact.jpg"/>
+      <img src="{{ site.baseurl }}/images/contact-2026.jpg"/>
     </div>
   </div>
